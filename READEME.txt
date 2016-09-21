@@ -1,0 +1,32 @@
+1. This simulation could be run in Eclipse since it's written in Java. 
+   So if you don't have Ecllipse installed in your PC, you can just simple go to Eclipse website 
+   to download it. Check the link below and choose "Eclipse IDE for Java Developers".
+   
+   https://www.eclipse.org/downloads/
+
+2. Beofre use eclipse, we need to download Java SE Development Kit 8 Downloads to build up
+   a proper environment. Just simply download "Java SE Development Kit 8u40" and install.
+
+   http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+3. After we successfully install two softwares above, we can start to run simulation
+   by using Eclipse.
+
+4. Here is a short tutorial to teach you how to use Eclipse from the first step to run the Hello_World program.
+
+   https://www.youtube.com/watch?v=fEApt1B8ycs 
+
+5. Please use the Applicaitn.java attached in the package "Project3" All the sorce code are
+   in it. When we start to use eclipse to run the simulation, you have to change the 
+   name of .txt file you are going to read in line 10. By default, it will read "FIFO_INPUT_16.txt".
+   
+   The first string means which algorithm we are going to use.
+   The second string means this is input file.
+   The third integer means how large the frame size will be. 
+   
+   Remember to put all the input.txt file under the java project directory when running the simulation.
+   Otherwise, the source cannot read the input.txt file correctly.
+
+P.S: If you have any questions or difficulty of running my code, please let me know in camino. 
+
+Have a nice day! Wish you my best!
